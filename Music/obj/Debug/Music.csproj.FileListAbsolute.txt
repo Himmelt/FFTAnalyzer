@@ -1,0 +1,9 @@
+D:\Kami\Documents\Music\bin\Debug\Music.exe.config
+D:\Kami\Desktop\Music\bin\Debug\Music.exe.config
+D:\Kami\Desktop\Music\bin\Debug\Music.exe
+D:\Kami\Desktop\Music\bin\Debug\Music.pdb
+D:\Kami\Desktop\Music\bin\Debug\FFT.dll
+D:\Kami\Desktop\Music\bin\Debug\WAV.dll
+D:\Kami\Desktop\Music\obj\Debug\Music.exe
+D:\Kami\Desktop\Music\obj\Debug\Music.pdb
+D:\Kami\Desktop\Music\obj\Debug\Music.csprojResolveAssemblyReference.cache

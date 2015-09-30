@@ -1,0 +1,5 @@
+D:\Kami\Documents\WAV\bin\Debug\WAV.dll
+D:\Kami\Documents\WAV\bin\Debug\WAV.pdb
+D:\Kami\Documents\WAV\obj\Debug\WAV.csprojResolveAssemblyReference.cache
+D:\Kami\Documents\WAV\obj\Debug\WAV.dll
+D:\Kami\Documents\WAV\obj\Debug\WAV.pdb

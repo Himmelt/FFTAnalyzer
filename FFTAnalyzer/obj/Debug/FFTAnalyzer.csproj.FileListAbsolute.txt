@@ -1,0 +1,15 @@
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\bin\Debug\FFTAnalyzer.exe.config
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\bin\Debug\FFTAnalyzer.exe
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\bin\Debug\FFTAnalyzer.pdb
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\MainWindow.baml
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\MainWindow.g.cs
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\App.g.cs
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\FFTAnalyzer_MarkupCompile.cache
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\FFTAnalyzer.g.resources
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\FFTAnalyzer.Properties.Resources.resources
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\FFTAnalyzer.csproj.GenerateResource.Cache
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\FFTAnalyzer.exe
+D:\Kami\Documents\FFTAnalyzer\FFTAnalyzer\obj\Debug\FFTAnalyzer.pdb
+D:\Kami\Desktop\FFTAnalyzer\FFTAnalyzer\bin\Debug\FFTAnalyzer.exe.config
+D:\Kami\Desktop\FFTAnalyzer\FFTAnalyzer\obj\Debug\FFTAnalyzer.exe
+D:\Kami\Desktop\FFTAnalyzer\FFTAnalyzer\obj\Debug\FFTAnalyzer.pdb

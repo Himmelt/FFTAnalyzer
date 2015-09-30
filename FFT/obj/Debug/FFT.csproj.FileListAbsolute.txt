@@ -1,0 +1,4 @@
+D:\Kami\Documents\FFT\bin\Debug\FFT.dll
+D:\Kami\Documents\FFT\bin\Debug\FFT.pdb
+D:\Kami\Documents\FFT\obj\Debug\FFT.dll
+D:\Kami\Documents\FFT\obj\Debug\FFT.pdb
